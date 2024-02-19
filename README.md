@@ -7,9 +7,6 @@
 <body>
 
 
-![image](https://github.com/adonea/adonea.lookdeep_ai_space.github.io/blob/main/banner1.png)
-
-
 	
 	The Machine Learning and Data Applications Group in Solar Physics at the School of Mathematics and the Monash Data Futures Institute at Monash University and the Centre of Astrophysics at University of South Queensland are pleased to organise the 3rd  Workshop on Deep Learning Algorithms for Space Research and Data Imaging.
 
