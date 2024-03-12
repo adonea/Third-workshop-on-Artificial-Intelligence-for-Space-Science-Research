@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
- **3rd Workshop on Deep Learning: Solar, Stellar and Space Physics with Machine Learning** <p>
+ 3rd Workshop on Deep Learning: Solar, Stellar and Space Physics with Machine Learning <p>
 	
 </head>
 <body>
