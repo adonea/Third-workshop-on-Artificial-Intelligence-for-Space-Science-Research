@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
- 3rd Workshop on Deep Learning: Solar, Stellar and Space Physics with Machine Learning<p>
+ **3rd Workshop on Deep Learning: Solar, Stellar and Space Physics with Machine Learning** <p>
 	
 </head>
 <body>
@@ -12,7 +12,7 @@ The Machine Learning and Data Applications Group in Solar Physics in  the School
 
 The workshop aims to foster Solar and Stellar physics and Space Physics research through the application of Machine Learning (ML) and deep learning techniques.
 
-##Key Dates:
+**Key Dates:**
 
 Deadline to express your participation: 2th April 2024 (direct email to Dr Alina Donea)
 
@@ -20,11 +20,11 @@ Deadline to send the title and an abstract for a 15-20 min presentation: 19th Ap
 
 Event Dates: 2nd to 3rd May 2024
 
-##Workshop: hybrid format
+**Workshop: hybrid format**
 Meeting ID: 821 2403 9507 
 Passcode: 340512
 
-##Email to organiser:
+**Email to organiser:**
 Dr Alina Donea (Monash University), solar physicist: alina.donea@monash.edu
 
 **Location:** Towoomba  campus:  https://www.unisq.edu.au/about-unisq/locations/toowoomba
