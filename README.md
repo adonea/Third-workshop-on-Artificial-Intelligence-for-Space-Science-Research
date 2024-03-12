@@ -15,7 +15,7 @@ Passcode: 340512
 **Email to organiser:**
 Dr Alina Donea (Monash University), solar physicist: alina.donea@monash.edu
 
-**Location:** Towoomba  campus 
+**Location:** Towoomba  campus:  https://www.unisq.edu.au/about-unisq/locations/toowoomba
 Centre for Astrophysics Locations
 C Block, University of Southern Queensland, Toowoomba
 
