@@ -12,7 +12,7 @@ The Machine Learning and Data Applications Group in Solar Physics in  the School
 
 The workshop aims to foster Solar and Stellar physics and Space Physics research through the application of Machine Learning (ML) and deep learning techniques.
 
-**Key Dates:**
+**Key Dates:
 
 Deadline to express your participation: 2th April 2024 (direct email to Dr Alina Donea)
 
