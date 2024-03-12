@@ -12,6 +12,7 @@
 
 **Email to organiser:**
 Dr Alina Donea (Monash University), solar physicist
+
 **Location:** Towoomba  campus 
 Centre for Astrophysics Locations
 C Block, University of Southern Queensland, Toowoomba
