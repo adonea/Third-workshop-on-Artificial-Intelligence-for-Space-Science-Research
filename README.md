@@ -6,7 +6,9 @@
 </head>
 <body>
 
-![image](https://github.com/adonea/adonea.lookdeep_ai_space.github.io/blob/main/banner1.png)
+
+
+![image](https://github.com/adonea/Third-workshop-on-Artificial-Intelligence-for-Space-Science-Research/blob/main/LAtest.jpeg)
 Solar, Stellar and Space Physics with Machine Learning
 
 Location: Towoomba  campus  The University of Southern Queensland
