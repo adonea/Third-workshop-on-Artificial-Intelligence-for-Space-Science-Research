@@ -1,34 +1,40 @@
 <!DOCTYPE html>
 <html>
 <head>
- 3rd Workshop on Deep Learning Algorithms for Space and Solar Physics Research and Data Imaging<p>
+ 3rd Workshop on Deep Learning: Solar, Stellar and Space Physics with Machine Learning<p>
 	
 </head>
 <body>
 
-Springfield campus 
-The University of Southern Queensland
-	
-	The Machine Learning and Data Applications Group in Solar Physics at the School of Mathematics and the Monash Data Futures Institute at Monash University and the Centre of Astrophysics at University of South Queensland are pleased to organise the 3rd  Workshop on Deep Learning Algorithms for Space Research and Data Imaging.
+Solar, Stellar and Space Physics with Machine Learning
 
-The workshop aims to foster Solar and stellar physics and Space Physics research through the application of Machine Learning (ML) and deep learning techniques.
-This workshop  will have a training component as well a session where researchers will present succesful applications of deep learning algorithms. We aim at chopping down  a few algorithms and learn how to apply these (resources: recorded videos, presentation powerpoints, mathematical notes with video explanations for algorithms and codes for learning)  
+Location: Towoomba  campus  The University of Southern Queensland
+Workshop: hybrid format
+	
+	The Machine Learning and Data Applications Group in Solar Physics in  the School of Mathematics and the Monash Data Futures Institute at Monash University and the Centre of Astrophysics at University of South Queensland are pleased to organise a  Workshop on Machine Learning Algorithms for Solar, Stellar and Space Physics.
+
+The workshop aims to foster Solar and Stellar physics and Space Physics research through the application of Machine Learning (ML) and deep learning techniques.
+This workshop  will have two parts:
+1) a training component
+2) a contributed session where researchers will present applications of deep learning algorithms to their research areas.
+  
+Resources: recorded videos, presentation powerpoints, mathematical notes with video explanations for algorithms and codes for learning will be provided. 
 
 The format is as follows:
 
-The workshop will run in a hybrid form on campus/ online, all are drop in sessions, just sign-in. 
+The workshop will run in a hybrid form on campus/ online, all are drop in sessions, free of charge, just sign-in to receive the zoomlink.
 
- The participants will have access to pre-recorded / recorded videos of presentations (https://www.youtube.com/@DeepLearningSpaceMonashUni/channels), and can submit a list of questions to the chair or directly to the chair or presenter (if not online).
+ The participants will have access to pre-recorded / recorded videos of presentations  at (https://www.youtube.com/@DeepLearningSpaceMonashUni/channels), and can submit a list of questions to the chair or directly to the chair or presenter (if not online).
 
-The online workshop will have two parts: 
+The online workshop will run over two days: 
 	<div>
   <ul>
-    <li>2nd May 2023  (full day) from 8:30 am </li>
-    <li>3rd May 2023  (full day) from 9 am </li>
+    <li>2nd May 2023  (full day) from 8:30 am --</li>
+    <li>3rd May 2023  (full day) from 9 am --</li>
   </ul>
 </div>
 	
-
+A Mt Kent Observatory visit can be organised after the workshop.
 
 <details><summary>Session 1: 2nd May Timetable</summary>
 <p>
