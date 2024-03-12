@@ -9,23 +9,21 @@
 
 ![image](https://github.com/adonea/Third-workshop-on-Artificial-Intelligence-for-Space-Science-Research/blob/main/Latest110324.jpeg)
 
-
+**Workshop: hybrid format**
 **Email to organiser:**
 Dr Alina Donea (Monash University), solar physicist
-
+alina.donea@monash.edu
 **Location:** Towoomba  campus 
 Centre for Astrophysics Locations
 C Block, University of Southern Queensland, Toowoomba
 
 
-**Workshop: hybrid format**
-	
-	The Machine Learning and Data Applications Group in Solar Physics in  the School of Mathematics and the Monash Data Futures Institute at Monash University and the Centre of Astrophysics at University of South Queensland are pleased to organise a  Workshop on Machine Learning Algorithms for Solar, Stellar and Space Physics.
+The Machine Learning and Data Applications Group in Solar Physics in  the School of Mathematics and the Monash Data Futures Institute at Monash University and the Centre of Astrophysics at University of South Queensland are pleased to organise a  Workshop on Machine Learning Algorithms for Solar, Stellar and Space Physics.
 
 The workshop aims to foster Solar and Stellar physics and Space Physics research through the application of Machine Learning (ML) and deep learning techniques.
 **This workshop  will have two parts:**
-1) a training component
-2) a contributed session where researchers will present applications of deep learning algorithms to their research areas.
+1) a training component (Hands on examples)
+2) a contributed session where researchers will present applications of deep learning algorithms to their research areas. (anyone who has had a succesful ML algorithm applied to satellite images and time series of any type is invited to share their experience). Students are encouraged to apply.
   
 Resources: recorded videos, presentation powerpoints, mathematical notes with video explanations for algorithms and codes for learning will be provided. 
 
