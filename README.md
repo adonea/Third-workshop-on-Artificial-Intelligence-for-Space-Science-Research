@@ -10,9 +10,10 @@
 ![image](https://github.com/adonea/Third-workshop-on-Artificial-Intelligence-for-Space-Science-Research/blob/main/Latest110324.jpeg)
 
 **Workshop: hybrid format**
+
 **Email to organiser:**
-Dr Alina Donea (Monash University), solar physicist
-alina.donea@monash.edu
+Dr Alina Donea (Monash University), solar physicist: alina.donea@monash.edu
+
 **Location:** Towoomba  campus 
 Centre for Astrophysics Locations
 C Block, University of Southern Queensland, Toowoomba
