@@ -7,8 +7,8 @@
 <body>
 
 
+![image](https://github.com/adonea/Third-workshop-on-Artificial-Intelligence-for-Space-Science-Research/blob/main/Latest110324.jpeg)
 
-![image](https://github.com/adonea/Third-workshop-on-Artificial-Intelligence-for-Space-Science-Research/blob/main/LAtest.jpeg)
 
 **Email to organiser:**
 Dr Alina Donea (Monash University), solar physicist
