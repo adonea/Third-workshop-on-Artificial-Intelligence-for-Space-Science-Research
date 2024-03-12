@@ -8,6 +8,12 @@
 
 ![image](https://github.com/adonea/Third-workshop-on-Artificial-Intelligence-for-Space-Science-Research/blob/main/Logo_MDFI_MON_USQ.jpeg)
 
+
+****Key Dates:**
+Deadline to express your participation: 2th April 2024 (direct email to Dr Alina Donea)
+Deadline to send the title and an abstract for a 15-20 min presentation: 19th April
+Event Dates: 2nd to 3rd May 2024
+
 **Workshop: hybrid format**
 Meeting ID: 821 2403 9507 
 Passcode: 340512
@@ -16,6 +22,7 @@ Passcode: 340512
 Dr Alina Donea (Monash University), solar physicist: alina.donea@monash.edu
 
 **Location:** Towoomba  campus:  https://www.unisq.edu.au/about-unisq/locations/toowoomba
+
 Centre for Astrophysics Locations
 C Block, University of Southern Queensland, Toowoomba
 
