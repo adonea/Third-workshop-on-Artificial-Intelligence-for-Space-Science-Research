@@ -44,8 +44,10 @@ The online workshop will run over two days:
 	
 A Mt Kent Observatory visit can be organised after the workshop.
 
-<details><summary>Session 1: 2nd May Timetable</summary>
+<details><summary>Session 1: 2 May 2024 Timetable</summary>
 <p>
+
+
 <table id="table69225">
   <thead>
     <tr>
@@ -62,185 +64,124 @@ A Mt Kent Observatory visit can be organised after the workshop.
         Recorded session link
       </th>
       <th style="text-align: center;" id="table69225r1c5">
-        AI/ML Keywords
-      </th>
-	<th style="text-align: center;" id="table69225r1c6">
-        Publications,   
-	Repos
+        Repos, Githubs
       </th>
     </tr>
   </thead>
   <tbody>
-    <tr style="text-align: center;">
-      <td headers="table69225r1c1">
-        8:30:00 a.m.
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-        -<br><em>-</em>
-      </td>
-      <td headers="table69225r1c3">
-       
-      </td>
-      <td headers="table69225r1c4">
-       <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
-	      
-      </td>
-      <td headers="table69225r1c5">
-      &nbsp;
-      </td>
-       <td headers="table69225r1c6">
-	 
-      </td>
-    </tr>
-    <tr style="text-align: center;">
-      <td headers="table69225r1c1">
-        10:30 a.m.
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-       <br><em></em>
-      </td>
-      <td headers="table69225r1c3">
-        
-      </td>
-      <td headers="table69225r1c4">
-        
-      </td>
-      <td headers="table69225r1c5">
-       
-      </td>
-	  <td headers="table69225r1c5">
-	 -
-      </td>
-    </tr>
-    <tr style="text-align: center;">
-      <td headers="table69225r1c1">
-        11:00 a.m.
-      </td>
-      <td headers="table69225r1c2">
-        -
-      </td>
-      <td headers="table69225r1c3">
-        -
-      </td>
-      <td headers="table69225r1c4">
-	 -
-      </td>
-      <td headers="table69225r1c5">
-        =
-      </td>
-	   </td>
-	  <td headers="table69225r1c5">
-	-
-      </td>
-    </tr>
     <tr>
       <td style="text-align: center;" headers="table69225r1c1">
-        11:30 a.m.
+        8:30 a.m.
       </td>
       <td style="text-align: center;" headers="table69225r1c2">
-        -
+       speaker<br><em>Institute</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-       -
-      </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-        -
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-       -
-      </td>
-	<td style="text-align: center;"  headers="table69225r1c6">
-	-
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        12:00 p.m
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-       
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-       
-      </td>
-      <td style="text-align: center;" headers="table69225r1c4">
-       
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-        &nbsp;
-      </td>
-	    <td headers="table69225r1c6">
-	 &nbsp;
-      </td>
-    </tr>
-    <tr style="text-align: center;">
-      <td headers="table69225r1c1">
-        12:30 p.m.
-      </td>
-      <td headers="table69225r1c2">
-       
-      </td>
-      <td headers="table69225r1c3">
-       
-      </td>
-      <td headers="table69225r1c4">
-        
-      </td>
-      <td style="text-align: center;" headers="table69225r1c5">
-        
-      </td>
-	    <td headers="table69225r1c5">
-	 The disturbance storm time (Dst) index is an important and useful measurement in space weather research, which is used to understand the severity of a geomagnetic storm. The Dst index is also known as the measure of the decrease in the Earth’s magnetic field.
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-        1:00 p.m.
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-       
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-       -
-      </td>
-      
-        
-      <td style="text-align: center;" headers="table69225r1c2">
-        
-      </td>
-      
-	    <td headers="table69225r1c5">
-	 &nbsp;
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: center;" headers="table69225r1c1">
-       
-      </td>
-      <td style="text-align: center;" headers="table69225r1c2">
-        Andrew Cook<br><em>Monash University</em>
-      </td>
-      <td style="text-align: center;" headers="table69225r1c3">
-        A Gentle Introduction to Gradient Descent<br>(pre-recored)
+        Title
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
-	      (prerecorded)
       </td>
       <td style="text-align: center;" headers="table69225r1c5">
-        gradient descent, optimization
-      </td>
-	    <td headers="table69225r1c5">
-	 &nbsp;
+       talk
       </td>
     </tr>
+	  <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        9:00 a.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       speaker<br><em>Institute</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Title
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>
+	  <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        9:00 a.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       speaker<br><em>Institute</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Title
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>
+	  <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        9:00 a.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       speaker<br><em>Institute</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Title
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>
+	  <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        9:00 a.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       speaker<br><em>Institute</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Title
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>
+	  <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        9:00 a.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       speaker<br><em>Institute</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Title
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>
+	  
+   
   </tbody>
 </table>
-</p>
 <p>
   *<strong>All times in AEDT</strong>
 </p>
+
+</p>
 </details>
+
 	
 <details><summary>Session 2: 3 May 2024 Timetable</summary>
 <p>
@@ -383,7 +324,7 @@ A Mt Kent Observatory visit can be organised after the workshop.
 
 
 
-<details><summary>Past workshop:  23rd Feb 2023 Timetable</summary>
+<details><summary>Past workshop and resources:  23rd Feb 2023 Timetable</summary>
 <p>
 
 
