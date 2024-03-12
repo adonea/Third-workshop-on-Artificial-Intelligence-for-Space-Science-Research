@@ -8,7 +8,9 @@
 
 ![image](https://github.com/adonea/Third-workshop-on-Artificial-Intelligence-for-Space-Science-Research/blob/main/Logo_MDFI_MON_USQ.jpeg)
 
+The Machine Learning and Data Applications Group in Solar Physics in  the School of Mathematics and the Monash Data Futures Institute at Monash University and the Centre of Astrophysics at University of South Queensland are pleased to organise a  Workshop on Machine Learning Algorithms for Solar, Stellar and Space Physics.
 
+The workshop aims to foster Solar and Stellar physics and Space Physics research through the application of Machine Learning (ML) and deep learning techniques.
 **Key Dates:**
 
 Deadline to express your participation: 2th April 2024 (direct email to Dr Alina Donea)
@@ -26,24 +28,20 @@ Dr Alina Donea (Monash University), solar physicist: alina.donea@monash.edu
 
 **Location:** Towoomba  campus:  https://www.unisq.edu.au/about-unisq/locations/toowoomba
 
-Centre for Astrophysics Locations
-C Block, University of Southern Queensland, Toowoomba
+**Local host:** Centre for Astrophysics Locations, University of Southern Queensland, Toowoomba
 
 
-The Machine Learning and Data Applications Group in Solar Physics in  the School of Mathematics and the Monash Data Futures Institute at Monash University and the Centre of Astrophysics at University of South Queensland are pleased to organise a  Workshop on Machine Learning Algorithms for Solar, Stellar and Space Physics.
 
-The workshop aims to foster Solar and Stellar physics and Space Physics research through the application of Machine Learning (ML) and deep learning techniques.
-**This workshop  will have two parts:**
-1) a training component (Hands on examples)
-2) a contributed session where researchers will present applications of deep learning algorithms to their research areas. (anyone who has had a succesful ML algorithm applied to satellite images and time series of any type is invited to share their experience). Students are encouraged to apply.
+**Workshop Outline:**
+1) a training component run in the mornings (Hands on examples)
+2) two contributed sessions where researchers will present applications of deep learning algorithms to their research areas. (anyone who has had a succesful ML algorithm applied to satellite images and time series of any type is invited to share their experience). Students are encouraged to apply.
   
 Resources: recorded videos, presentation powerpoints, mathematical notes with video explanations for algorithms and codes for learning will be provided. 
 
-The format is as follows:
 
-The workshop will run in a hybrid form on campus/ online, all are drop in sessions, free of charge, just sign-in to receive the zoomlink.
+The workshop will run in a hybrid form on campus/ online, all are drop in sessions, free of charge, just sign-in to receive updated information.
 
- The participants will have access to pre-recorded / recorded videos of presentations  at (https://www.youtube.com/@DeepLearningSpaceMonashUni/channels), and can submit a list of questions to the chair or directly to the chair or presenter (if not online).
+ Participants will have access to pre-recorded / recorded videos of presentations  at (https://www.youtube.com/@DeepLearningSpaceMonashUni/channels), and can submit a list of questions to the chair or directly to the chair or presenter (if not online).
 
 The online workshop will run over two days: 
 	<div>
@@ -88,7 +86,7 @@ A Mt Kent Observatory visit can be organised after the workshop.
        speaker<br><em>Institute</em>
       </td>
       <td style="text-align: center;" headers="table69225r1c3">
-        Title
+        Title: Introduction and the big view og AI for the Australian solar,stellar, space community
       </td>
       <td style="text-align: center;" headers="table69225r1c4">
         <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
