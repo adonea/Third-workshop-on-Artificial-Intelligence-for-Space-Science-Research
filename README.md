@@ -11,6 +11,7 @@
 The Machine Learning and Data Applications Group in Solar Physics in  the School of Mathematics and the Monash Data Futures Institute at Monash University and the Centre of Astrophysics at University of South Queensland are pleased to organise a  Workshop on Machine Learning Algorithms for Solar, Stellar and Space Physics.
 
 The workshop aims to foster Solar and Stellar physics and Space Physics research through the application of Machine Learning (ML) and deep learning techniques.
+
 **Key Dates:**
 
 Deadline to express your participation: 2th April 2024 (direct email to Dr Alina Donea)
