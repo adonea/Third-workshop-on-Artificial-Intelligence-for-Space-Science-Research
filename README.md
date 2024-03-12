@@ -242,9 +242,148 @@ A Mt Kent Observatory visit can be organised after the workshop.
 </p>
 </details>
 	
+<details><summary>Session 2: 3 May 2024 Timetable</summary>
+<p>
 
 
-<details><summary>Session 2: 23rd Feb 2023 Timetable</summary>
+<table id="table69225">
+  <thead>
+    <tr>
+      <th style="text-align: center;" id="table69225r1c1">
+        Time
+      </th>
+      <th style="text-align: center;" id="table69225r1c2">
+        Presenter
+      </th>
+      <th style="text-align: center;" id="table69225r1c3">
+        Title
+      </th>
+      <th style="text-align: center;" id="table69225r1c4">
+        Recorded session link
+      </th>
+      <th style="text-align: center;" id="table69225r1c5">
+        Repos, Githubs
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        9:00 a.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       speaker<br><em>Institute</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Title
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>
+	  <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        9:00 a.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       speaker<br><em>Institute</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Title
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>
+	  <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        9:00 a.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       speaker<br><em>Institute</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Title
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>
+	  <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        9:00 a.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       speaker<br><em>Institute</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Title
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>
+	  <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        9:00 a.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       speaker<br><em>Institute</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Title
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>
+	  <tr>
+      <td style="text-align: center;" headers="table69225r1c1">
+        9:00 a.m.
+      </td>
+      <td style="text-align: center;" headers="table69225r1c2">
+       speaker<br><em>Institute</em>
+      </td>
+      <td style="text-align: center;" headers="table69225r1c3">
+        Title
+      </td>
+      <td style="text-align: center;" headers="table69225r1c4">
+        <a href="https://www.youtube.com/@DeepLearningSpaceMonashUni/channels">Youtube</a> 
+      </td>
+      <td style="text-align: center;" headers="table69225r1c5">
+       talk
+      </td>
+    </tr>
+	  
+   
+  </tbody>
+</table>
+<p>
+  *<strong>All times in AEDT</strong>
+</p>
+
+</p>
+</details>
+
+
+
+
+<details><summary>Past workshop:  23rd Feb 2023 Timetable</summary>
 <p>
 
 
@@ -400,11 +539,7 @@ Aplication OD :Visuals
 
 
 
-<details><summary>Session 3: 26th June 2023 TBC (invitations open)</summary>
-<p>
 
-</.>
-</details>
 
 </html>
 
