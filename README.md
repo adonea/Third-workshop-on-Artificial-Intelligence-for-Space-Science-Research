@@ -10,6 +10,7 @@
 
 
 **Key Dates:**
+
 Deadline to express your participation: 2th April 2024 (direct email to Dr Alina Donea)
 
 Deadline to send the title and an abstract for a 15-20 min presentation: 19th April
