@@ -325,7 +325,7 @@ A Mt Kent Observatory visit can be organised after the workshop.
 
 
 
-<details><summary>Past workshop and resources:  23rd Feb 2023 Timetable</summary>
+<details><summary>Second workshop and its resources:  23rd Feb 2023 Timetable</summary>
 <p>
 
 
