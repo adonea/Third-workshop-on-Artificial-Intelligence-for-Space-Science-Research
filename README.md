@@ -10,6 +10,8 @@
 ![image](https://github.com/adonea/Third-workshop-on-Artificial-Intelligence-for-Space-Science-Research/blob/main/Latest110324.jpeg)
 
 **Workshop: hybrid format**
+Meeting ID: 821 2403 9507 
+Passcode: 340512
 
 **Email to organiser:**
 Dr Alina Donea (Monash University), solar physicist: alina.donea@monash.edu
